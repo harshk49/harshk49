@@ -31,7 +31,7 @@ Some of my major projects:
 ## 📫 How to Reach Me
 - LinkedIn: [Harsh Kardile](https://www.linkedin.com/in/harsh-kardile-887b16215/)
 - Instagram: [@harsh_kardile49](https://www.instagram.com/harsh_kardile49?igsh=djJ0dGd0NHdyb3Ex)
-- Email: harshk49@gmail.com
+- Email: harshkardile49@gmail.com
 - GitHub: [@harshk49](https://github.com/harshk49)
 
 ## ⚡ Fun Facts
