@@ -43,4 +43,5 @@ Some of my major projects:
 ![Harsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=harshk49&show_icons=true&theme=radical)
 
 ## 🏆 Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harshk49&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harshk49&layout=compact&theme=radical&count_private=true&cache_seconds=1800)
+
