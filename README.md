@@ -27,12 +27,28 @@ I'm a Full Stack Developer with a strong focus on backend engineering and scalab
 I love contributing to open source projects, especially those centered around web development, backend systems, and machine learning. I'm also eager to collaborate with startups or teams aiming to build scalable solutions.
 
 ---
+## My GitHub Stats
 
-## GitHub Stats
-
+<!-- Standard GitHub stats card -->
 [![Harsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=harshk49&show_icons=true&theme=radical)](https://github.com/harshk49)
 
+<!-- Top Languages card -->
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harshk49&layout=compact&theme=radical&count_private=true&cache_seconds=1800)](https://github.com/harshk49)
+
+---
+
+## GitHub Streak
+
+Show off your consistency with a streak card:
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=harshk49&theme=radical)](https://git.io/streak-stats)
+
+---
+
+## GitHub Profile Trophy
+
+Highlight your achievements with a trophy display:
+[![trophy](https://github-profile-trophy.vercel.app/?username=harshk49&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 ---
 
