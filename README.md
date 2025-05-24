@@ -54,8 +54,6 @@ I'm a Full Stack Developer specializing in scalable backend architectures and se
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harshk49&layout=compact&theme=radical&count_private=true&cache_seconds=1800)](https://github.com/harshk49)
 
-![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=harshk49&theme=github)
-
 ---
 
 ## What I'm Learning
