@@ -79,3 +79,14 @@ I'm a Full Stack Developer specializing in scalable backend architectures and se
 - **Instagram:** [@harsh_kardile49](https://www.instagram.com/harsh_kardile49?igsh=djJ0dGd0NHdyb3Ex)
 - **Email:** [harshkardile49@gmail.com](mailto:harshkardile49@gmail.com)
 - **GitHub:** [@harshk49](https://github.com/harshk49)
+
+---
+  
+## GitHub Stats
+
+[![Harsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=harshk49&show_icons=true&theme=radical)](https://github.com/harshk49)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harshk49&layout=compact&theme=radical&count_private=true&cache_seconds=1800)](https://github.com/harshk49)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=harshk49&theme=radical)](https://git.io/streak-stats)
+
